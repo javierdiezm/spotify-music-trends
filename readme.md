@@ -23,13 +23,15 @@ Explorar patrones en popularidad, géneros y mercados a partir de datos reales d
 ```
 spotify-music-trends/
 ├── src/
-│   ├── config.py          # Conexión autenticada con la API de Spotify
-│   └── test/
-│       └── test_connection.py
+│   ├── config.py                        # Conexión autenticada con la API de Spotify
+│   └── extract.py
+├── tests/
+│   └── test_connection.py
 ├── data/
-│   ├── raw/                # JSON crudo tal cual devuelve la API
-│   └── processed/          # CSV limpio, listo para Power BI
-├── .env                    # Credenciales (no se sube, ver .gitignore)
+│   ├── raw/
+│   |   └── artistas_espanoles.json      # JSON crudo tal cual devuelve la API
+│   └── processed/                       # CSV limpio, listo para Power BI
+├── .env                                 # Credenciales (no se sube, ver .gitignore)
 ├── .gitignore
 └── README.md
 ```
