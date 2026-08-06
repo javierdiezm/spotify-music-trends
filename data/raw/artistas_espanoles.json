@@ -1,0 +1,5561 @@
+[
+  {
+    "nombre_buscado": "El Canto del Loco",
+    "id": "5RK6c1tyaKpwcDpbgCGNgj",
+    "nombre": "El Canto Del Loco",
+    "generos": [],
+    "discografia": [
+      {
+        "nombre": "Por Mi y por Todos Mis Compañeros",
+        "tipo": "album",
+        "fecha_lanzamiento": "2009-11-24",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Radio la Colifata Presenta: El Canto del Loco",
+        "tipo": "album",
+        "fecha_lanzamiento": "2009-11-24",
+        "precision_fecha": "day",
+        "total_tracks": 20
+      },
+      {
+        "nombre": "Personas",
+        "tipo": "album",
+        "fecha_lanzamiento": "2008-04-01",
+        "precision_fecha": "day",
+        "total_tracks": 14
+      },
+      {
+        "nombre": "Zapatillas",
+        "tipo": "album",
+        "fecha_lanzamiento": "2005",
+        "precision_fecha": "year",
+        "total_tracks": 13
+      },
+      {
+        "nombre": "Estados de Animo",
+        "tipo": "album",
+        "fecha_lanzamiento": "2003-05-15",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "El Canto del Loco en Directo",
+        "tipo": "album",
+        "fecha_lanzamiento": "2003-02-06",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "A Contracorriente",
+        "tipo": "album",
+        "fecha_lanzamiento": "2002-03-01",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "El Canto del Loco",
+        "tipo": "album",
+        "fecha_lanzamiento": "2000-06-16",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Un Millon de Cicatrices",
+        "tipo": "single",
+        "fecha_lanzamiento": "2009-11-30",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Quiero Aprender De Ti",
+        "tipo": "single",
+        "fecha_lanzamiento": "2009-11-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Hey, Hey Vicky",
+        "tipo": "single",
+        "fecha_lanzamiento": "2009-10-12",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Pot Ser (Puede Ser)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2006-10-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Eres Tonto",
+        "tipo": "single",
+        "fecha_lanzamiento": "2004-03-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Son Sueños (Remasterizado)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2002",
+        "precision_fecha": "year",
+        "total_tracks": 3
+      }
+    ]
+  },
+  {
+    "nombre_buscado": "Arde Bogotá",
+    "id": "2Wwiu1wnq1W8AMYbWuRFDH",
+    "nombre": "Arde Bogotá",
+    "generos": [],
+    "discografia": [
+      {
+        "nombre": "COWBOYS DE LA A3",
+        "tipo": "album",
+        "fecha_lanzamiento": "2023-05-12",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "LA NOCHE",
+        "tipo": "album",
+        "fecha_lanzamiento": "2021-05-07",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "Bigger Splash",
+        "tipo": "single",
+        "fecha_lanzamiento": "2026-07-08",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Instrucciones",
+        "tipo": "single",
+        "fecha_lanzamiento": "2026-05-08",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Guitarras Blancas",
+        "tipo": "single",
+        "fecha_lanzamiento": "2026-05-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Flores de Venganza",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-11-22",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Torre Picasso",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-09-13",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Salvación",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-09-02",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "De vuelta a casa",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-05-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Salvación",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-04-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Los Perros (Andres Campo & K-Style Remix)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-06-23",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Qué Vida Tan Dura",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-04-27",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Cowboys de la A3",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-03-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Los Perros",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-01-26",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Sin Vergüenza",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-07-07",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Mi Carro",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-09-28",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Cariño",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-04-29",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Millennial",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-03-05",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Abajo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-10-29",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Tiempo y la Actitud",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-06-12",
+        "precision_fecha": "day",
+        "total_tracks": 5
+      },
+      {
+        "nombre": "Quiero Casarme Contigo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-05-08",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Big Bang",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-03-06",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Antiaéreo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-03-02",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      }
+    ]
+  },
+  {
+    "nombre_buscado": "Leiva",
+    "id": "5Hsv8dUHHOdnn72q4XIVz7",
+    "nombre": "Leiva",
+    "generos": [],
+    "discografia": [
+      {
+        "nombre": "Gigante",
+        "tipo": "album",
+        "fecha_lanzamiento": "2025-04-04",
+        "precision_fecha": "day",
+        "total_tracks": 14
+      },
+      {
+        "nombre": "Cuando Te Muerdes el Labio",
+        "tipo": "album",
+        "fecha_lanzamiento": "2021-12-03",
+        "precision_fecha": "day",
+        "total_tracks": 14
+      },
+      {
+        "nombre": "Madrid Nuclear - En Directo",
+        "tipo": "album",
+        "fecha_lanzamiento": "2020-11-20",
+        "precision_fecha": "day",
+        "total_tracks": 22
+      },
+      {
+        "nombre": "Nuclear",
+        "tipo": "album",
+        "fecha_lanzamiento": "2019-03-22",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Monstruos",
+        "tipo": "album",
+        "fecha_lanzamiento": "2016-08-26",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Polvora",
+        "tipo": "album",
+        "fecha_lanzamiento": "2014-01-31",
+        "precision_fecha": "day",
+        "total_tracks": 13
+      },
+      {
+        "nombre": "Diciembre",
+        "tipo": "album",
+        "fecha_lanzamiento": "2012-02-21",
+        "precision_fecha": "day",
+        "total_tracks": 13
+      },
+      {
+        "nombre": "Hasta que me quede sin voz",
+        "tipo": "single",
+        "fecha_lanzamiento": "2025-10-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Caída Libre (feat. Robe)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2025-02-28",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Polvo de los Días Raros",
+        "tipo": "single",
+        "fecha_lanzamiento": "2025-02-07",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Ángulo Muerto",
+        "tipo": "single",
+        "fecha_lanzamiento": "2025-01-17",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Bajo Presión",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-11-22",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Gigante",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-10-31",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Bandido Medina (De la serie original de Prime Video, Medina: El Estafador de Famosos)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-10-18",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Mordida del Gran Pitbull Cruz",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-03-30",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Sashimi",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-12-28",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "OK",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-11-03",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Lo Siento",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-11-02",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Jaula de Oro",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-04-28",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Flecha",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-11-16",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Stranger Things",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-11-04",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Iceberg",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-10-07",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Histéricos",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-09-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Solaris",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-04-30",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Mundo de Cristal",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-04-08",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Baila Conmigo [Feat. Leiva] (En Directo Desde Madrid)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-11-25",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Nunca Debiste Cruzar el Mississippi",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-10-05",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Partido a Partido",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-09-25",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Estación Eterna",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-05-20",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Mi Pequeño Chernóbil",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-04-02",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Llamada",
+        "tipo": "single",
+        "fecha_lanzamiento": "2017-09-27",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Sixteen (with Fito Cabrales & Carlos Tarque)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2015-04-09",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Mirada Perdida",
+        "tipo": "single",
+        "fecha_lanzamiento": "2014-06-23",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Terriblemente Cruel",
+        "tipo": "single",
+        "fecha_lanzamiento": "2013-12-02",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Afuera en la Ciudad",
+        "tipo": "single",
+        "fecha_lanzamiento": "2013-10-21",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Rock de Europa",
+        "tipo": "single",
+        "fecha_lanzamiento": "2013-04-23",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Anticiclón",
+        "tipo": "single",
+        "fecha_lanzamiento": "2012-12-18",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Eme",
+        "tipo": "single",
+        "fecha_lanzamiento": "2012-01-17",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      }
+    ]
+  },
+  {
+    "nombre_buscado": "Los Secretos",
+    "id": "2KEDbpUlz9nwtGywHT4gyf",
+    "nombre": "Los Secretos",
+    "generos": [],
+    "discografia": [
+      {
+        "nombre": "Desde Que No Nos Vemos - Concierto Homenaje a Enrique Urquijo (En Directo / WiZink Center / Madrid / 17-11-2019)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2021-11-18",
+        "precision_fecha": "day",
+        "total_tracks": 20
+      },
+      {
+        "nombre": "Mi paraíso",
+        "tipo": "album",
+        "fecha_lanzamiento": "2019-09-20",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Una vida a tu lado",
+        "tipo": "album",
+        "fecha_lanzamiento": "2017-11-03",
+        "precision_fecha": "day",
+        "total_tracks": 77
+      },
+      {
+        "nombre": "Los Secretos (Edición 35 Aniversario)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2015-10-30",
+        "precision_fecha": "day",
+        "total_tracks": 27
+      },
+      {
+        "nombre": "Algo prestado",
+        "tipo": "album",
+        "fecha_lanzamiento": "2015-05-08",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Sinfónico",
+        "tipo": "album",
+        "fecha_lanzamiento": "2012-10-30",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "En este mundo raro",
+        "tipo": "album",
+        "fecha_lanzamiento": "2011-09-16",
+        "precision_fecha": "day",
+        "total_tracks": 13
+      },
+      {
+        "nombre": "Gracias por elegirme",
+        "tipo": "album",
+        "fecha_lanzamiento": "2008-12-09",
+        "precision_fecha": "day",
+        "total_tracks": 30
+      },
+      {
+        "nombre": "30 años",
+        "tipo": "album",
+        "fecha_lanzamiento": "2007",
+        "precision_fecha": "year",
+        "total_tracks": 38
+      },
+      {
+        "nombre": "Una y mil veces",
+        "tipo": "album",
+        "fecha_lanzamiento": "2006-04-17",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Con Cierto Sentido",
+        "tipo": "album",
+        "fecha_lanzamiento": "2003-11-17",
+        "precision_fecha": "day",
+        "total_tracks": 15
+      },
+      {
+        "nombre": "Solo Para Escuchar",
+        "tipo": "album",
+        "fecha_lanzamiento": "2002-11-15",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "A Tu Lado",
+        "tipo": "album",
+        "fecha_lanzamiento": "2000-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 17
+      },
+      {
+        "nombre": "Dos Caras Distintas",
+        "tipo": "album",
+        "fecha_lanzamiento": "1995-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 13
+      },
+      {
+        "nombre": "Cambio De Planes",
+        "tipo": "album",
+        "fecha_lanzamiento": "1993-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Adios Tristeza",
+        "tipo": "album",
+        "fecha_lanzamiento": "1991-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "La Calle Del Olvido",
+        "tipo": "album",
+        "fecha_lanzamiento": "1989-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "Directo",
+        "tipo": "album",
+        "fecha_lanzamiento": "1988-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 24
+      },
+      {
+        "nombre": "Primer Cruce y Continuará",
+        "tipo": "album",
+        "fecha_lanzamiento": "1987-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 18
+      },
+      {
+        "nombre": "Algo Más",
+        "tipo": "album",
+        "fecha_lanzamiento": "1983-04-02",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "Los Secretos",
+        "tipo": "album",
+        "fecha_lanzamiento": "1981-01-15",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Amb Tu Sempre",
+        "tipo": "single",
+        "fecha_lanzamiento": "2015-07-12",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Ponte en la fila",
+        "tipo": "single",
+        "fecha_lanzamiento": "2015-04-21",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Cuéntame",
+        "tipo": "single",
+        "fecha_lanzamiento": "2014-01-14",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "En este mundo raro",
+        "tipo": "single",
+        "fecha_lanzamiento": "2011-09-02",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "No no no",
+        "tipo": "single",
+        "fecha_lanzamiento": "2008-09-16",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      }
+    ]
+  },
+  {
+    "nombre_buscado": "Hombres G",
+    "id": "60uh2KYYSCqAgJNxcU4DA0",
+    "nombre": "Hombres G",
+    "generos": [],
+    "discografia": [
+      {
+        "nombre": "¿Por qué no ser amigos?",
+        "tipo": "album",
+        "fecha_lanzamiento": "2025-04-11",
+        "precision_fecha": "day",
+        "total_tracks": 14
+      },
+      {
+        "nombre": "Del rosa al amarillo",
+        "tipo": "album",
+        "fecha_lanzamiento": "2023-11-24",
+        "precision_fecha": "day",
+        "total_tracks": 38
+      },
+      {
+        "nombre": "La Esquina de Rowland",
+        "tipo": "album",
+        "fecha_lanzamiento": "2021-10-08",
+        "precision_fecha": "day",
+        "total_tracks": 14
+      },
+      {
+        "nombre": "Resurrección",
+        "tipo": "album",
+        "fecha_lanzamiento": "2019-03-15",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Huevos Revueltos (En Vivo)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2018-06-15",
+        "precision_fecha": "day",
+        "total_tracks": 29
+      },
+      {
+        "nombre": "En la arena (Gira 30 años y un día / Las Ventas 26 de junio de 2015)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2015-11-20",
+        "precision_fecha": "day",
+        "total_tracks": 28
+      },
+      {
+        "nombre": "30 años y un día",
+        "tipo": "album",
+        "fecha_lanzamiento": "2015-06-02",
+        "precision_fecha": "day",
+        "total_tracks": 52
+      },
+      {
+        "nombre": "En La Playa",
+        "tipo": "album",
+        "fecha_lanzamiento": "2011-11-29",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "Desayuno Continental",
+        "tipo": "album",
+        "fecha_lanzamiento": "2010-11-16",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "10",
+        "tipo": "album",
+        "fecha_lanzamiento": "2007-09-18",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Todo esto es muy extraño",
+        "tipo": "album",
+        "fecha_lanzamiento": "2004-11-02",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "El año que vivimos peligrosamente",
+        "tipo": "album",
+        "fecha_lanzamiento": "2004-03-01",
+        "precision_fecha": "day",
+        "total_tracks": 16
+      },
+      {
+        "nombre": "Voy a pasarmelo bien. Tributo a Hombres G",
+        "tipo": "album",
+        "fecha_lanzamiento": "2003-01-31",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "Albums",
+        "tipo": "album",
+        "fecha_lanzamiento": "2002",
+        "precision_fecha": "year",
+        "total_tracks": 75
+      },
+      {
+        "nombre": "Las baladas (Los singles vol II)",
+        "tipo": "album",
+        "fecha_lanzamiento": "1996",
+        "precision_fecha": "year",
+        "total_tracks": 14
+      },
+      {
+        "nombre": "Los Singles",
+        "tipo": "album",
+        "fecha_lanzamiento": "1993",
+        "precision_fecha": "year",
+        "total_tracks": 20
+      },
+      {
+        "nombre": "Historia Del Bikini",
+        "tipo": "album",
+        "fecha_lanzamiento": "1992",
+        "precision_fecha": "year",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Esta Es Tu Vida",
+        "tipo": "album",
+        "fecha_lanzamiento": "1990",
+        "precision_fecha": "year",
+        "total_tracks": 14
+      },
+      {
+        "nombre": "Voy A Pasarmelo Bien",
+        "tipo": "album",
+        "fecha_lanzamiento": "1989",
+        "precision_fecha": "year",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "Agitar Antes De Usar",
+        "tipo": "album",
+        "fecha_lanzamiento": "1988",
+        "precision_fecha": "year",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "Estamos Locos... O Que?",
+        "tipo": "album",
+        "fecha_lanzamiento": "1987",
+        "precision_fecha": "year",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "La Cagaste... Burt Lancaster",
+        "tipo": "album",
+        "fecha_lanzamiento": "1986",
+        "precision_fecha": "year",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "Hombres G (Edición 30 Aniversario)",
+        "tipo": "album",
+        "fecha_lanzamiento": "1985",
+        "precision_fecha": "year",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "Suéltate el pelo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-11-03",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El ataque de las chicas cocodrilo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-08-04",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Cocodrilo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-01-26",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Antes de ti",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-09-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "SE ME SALE EL CORAZÓN",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-06-18",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Imprescindibles",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-04-09",
+        "precision_fecha": "day",
+        "total_tracks": 5
+      },
+      {
+        "nombre": "Confía en Mi",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-03-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Con los Brazos en Cruz",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-02-22",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Devuélveme a Mi Chica (En Vivo)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-06-08",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Depende de ti",
+        "tipo": "single",
+        "fecha_lanzamiento": "2015-03-31",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Esperando un Milagro",
+        "tipo": "single",
+        "fecha_lanzamiento": "2014-03-21",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Por una Vez",
+        "tipo": "single",
+        "fecha_lanzamiento": "2014-03-21",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Lo Noto (with Miguel Bosé)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2011-11-15",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Me siento bien",
+        "tipo": "single",
+        "fecha_lanzamiento": "2007-08-06",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Por que no ser amigos",
+        "tipo": "single",
+        "fecha_lanzamiento": "2004",
+        "precision_fecha": "year",
+        "total_tracks": 2
+      },
+      {
+        "nombre": "El orgullo de mamá (Remezclas)",
+        "tipo": "single",
+        "fecha_lanzamiento": "1992-03-22",
+        "precision_fecha": "day",
+        "total_tracks": 4
+      },
+      {
+        "nombre": "Hombres G",
+        "tipo": "single",
+        "fecha_lanzamiento": "1983",
+        "precision_fecha": "year",
+        "total_tracks": 4
+      }
+    ]
+  },
+  {
+    "nombre_buscado": "Loquillo",
+    "id": "5Fv0DQ1ZBuc2DlidtOUCZr",
+    "nombre": "Loquillo",
+    "generos": [],
+    "discografia": [
+      {
+        "nombre": "Corazones legendarios",
+        "tipo": "album",
+        "fecha_lanzamiento": "2025-09-26",
+        "precision_fecha": "day",
+        "total_tracks": 23
+      },
+      {
+        "nombre": "Europa",
+        "tipo": "album",
+        "fecha_lanzamiento": "2025-03-14",
+        "precision_fecha": "day",
+        "total_tracks": 9
+      },
+      {
+        "nombre": "Mujeres en pie de guerra (XX Aniversario - Nuevas mezclas)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2024-10-04",
+        "precision_fecha": "day",
+        "total_tracks": 9
+      },
+      {
+        "nombre": "La vida es de los que arriesgan",
+        "tipo": "album",
+        "fecha_lanzamiento": "2023-12-21",
+        "precision_fecha": "day",
+        "total_tracks": 18
+      },
+      {
+        "nombre": "Diario de una tregua",
+        "tipo": "album",
+        "fecha_lanzamiento": "2022-04-29",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "El último clásico",
+        "tipo": "album",
+        "fecha_lanzamiento": "2019-11-22",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "Salud y Rock and Roll",
+        "tipo": "album",
+        "fecha_lanzamiento": "2016-12-09",
+        "precision_fecha": "day",
+        "total_tracks": 34
+      },
+      {
+        "nombre": "Viento del este",
+        "tipo": "album",
+        "fecha_lanzamiento": "2016-04-22",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Código rocker",
+        "tipo": "album",
+        "fecha_lanzamiento": "2015-03-24",
+        "precision_fecha": "day",
+        "total_tracks": 14
+      },
+      {
+        "nombre": "El Creyente",
+        "tipo": "album",
+        "fecha_lanzamiento": "2014-04-29",
+        "precision_fecha": "day",
+        "total_tracks": 26
+      },
+      {
+        "nombre": "La nave de los locos (Remaster 2017)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2012-12-01",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "La nave de los locos",
+        "tipo": "album",
+        "fecha_lanzamiento": "2012-10-23",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "Loquillo en Madrid",
+        "tipo": "album",
+        "fecha_lanzamiento": "2012-06-08",
+        "precision_fecha": "day",
+        "total_tracks": 18
+      },
+      {
+        "nombre": "Su nombre era el de todas las mujeres",
+        "tipo": "album",
+        "fecha_lanzamiento": "2011-09-30",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "Rock & Roll Star - 30 años",
+        "tipo": "album",
+        "fecha_lanzamiento": "2009-11-13",
+        "precision_fecha": "day",
+        "total_tracks": 55
+      },
+      {
+        "nombre": "Balmoral",
+        "tipo": "album",
+        "fecha_lanzamiento": "2008-04-08",
+        "precision_fecha": "day",
+        "total_tracks": 16
+      },
+      {
+        "nombre": "Nueve tragos (Remaster 2017)",
+        "tipo": "album",
+        "fecha_lanzamiento": "1999-12-01",
+        "precision_fecha": "day",
+        "total_tracks": 9
+      },
+      {
+        "nombre": "Con Elegancia",
+        "tipo": "album",
+        "fecha_lanzamiento": "1998-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "La Vida Por Delante [Edición Para Coleccionistas]",
+        "tipo": "album",
+        "fecha_lanzamiento": "1994-06-07",
+        "precision_fecha": "day",
+        "total_tracks": 23
+      },
+      {
+        "nombre": "La Vida Por Delante",
+        "tipo": "album",
+        "fecha_lanzamiento": "1994-03-03",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Heroes De Los 80",
+        "tipo": "album",
+        "fecha_lanzamiento": "1989-02-22",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Loquillo & Sabino (Remaster 2017)",
+        "tipo": "album",
+        "fecha_lanzamiento": "1987-12-01",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "Los Tiempos Están Cambiando",
+        "tipo": "album",
+        "fecha_lanzamiento": "1980-03-03",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "Los Tiempos Están Cambiando (Edición Coleccionista)",
+        "tipo": "album",
+        "fecha_lanzamiento": "1980",
+        "precision_fecha": "year",
+        "total_tracks": 24
+      },
+      {
+        "nombre": "Feo, fuerte y formal (feat. Dani Martín)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2025-04-04",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El año que mataron a Salvador (Nueva mezcla 2024)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-07-19",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Nada podrá salvarte",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-11-30",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Rey (Nueva versión)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-09-22",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Rey",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-04-08",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Tantas veces me he jugado el corazón que lo he perdido (feat. Loquillo)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-01-14",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Libertad",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-12-21",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La mafia del baile, la ley del compás",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-05-21",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Sonríe",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-06-12",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Gafas de sol",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-10-11",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El último clásico",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-09-06",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Rock and Roll Actitud (Versión 2018)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-07-20",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Rey del Glam",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-03-09",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Ritmo del Garaje (Versión 2016)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-11-14",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Rusty",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-04-08",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Salud y Rock and Roll",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-02-19",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Me convertí en hombre lobo por culpa de Los Ramones / Va por la ciudad",
+        "tipo": "single",
+        "fecha_lanzamiento": "2015-07-03",
+        "precision_fecha": "day",
+        "total_tracks": 2
+      },
+      {
+        "nombre": "Piratas",
+        "tipo": "single",
+        "fecha_lanzamiento": "2015-02-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Rock de Europa",
+        "tipo": "single",
+        "fecha_lanzamiento": "2013-04-23",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Contento",
+        "tipo": "single",
+        "fecha_lanzamiento": "2012-10-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Acontenta'm",
+        "tipo": "single",
+        "fecha_lanzamiento": "2012-07-12",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Political incorrectness",
+        "tipo": "single",
+        "fecha_lanzamiento": "2011-07-19",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Apuesta por el Rock n' Roll (Homenaje a Heroes del Silencio y Bunbury)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2010-11-16",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El hombre de negro (feat. Jaime Urrutia, Andrés Calamaro y Bunbury)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2009-10-16",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Sol Remezclas- EP",
+        "tipo": "single",
+        "fecha_lanzamiento": "2008-07-29",
+        "precision_fecha": "day",
+        "total_tracks": 4
+      },
+      {
+        "nombre": "Cruzando el paraiso (feat. Andres Calamaro)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2008-05-26",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      }
+    ]
+  },
+  {
+    "nombre_buscado": "La Maravillosa Orquesta del Alcohol",
+    "id": "1vBn5Puz4mdZopZEHq1QDq",
+    "nombre": "La Maravillosa Orquesta del Alcohol",
+    "generos": [],
+    "discografia": [
+      {
+        "nombre": "San Felices",
+        "tipo": "album",
+        "fecha_lanzamiento": "2025-10-16",
+        "precision_fecha": "day",
+        "total_tracks": 13
+      },
+      {
+        "nombre": "Nuevo Cancionero Burgalés",
+        "tipo": "album",
+        "fecha_lanzamiento": "2021-12-17",
+        "precision_fecha": "day",
+        "total_tracks": 8
+      },
+      {
+        "nombre": "Alguna Ola (Sesión En Directo)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2021-04-20",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "Ninguna Ola",
+        "tipo": "album",
+        "fecha_lanzamiento": "2020-12-11",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "& (En Directo)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2019-12-30",
+        "precision_fecha": "day",
+        "total_tracks": 14
+      },
+      {
+        "nombre": "Garate (Sesión En Directo)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2018-04-13",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Salvavida (de las Balas Perdidas)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2017-09-29",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Todavía No Ha Salido La Luna (En Directo)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2016-12-16",
+        "precision_fecha": "day",
+        "total_tracks": 21
+      },
+      {
+        "nombre": "La Primavera Del Invierno",
+        "tipo": "album",
+        "fecha_lanzamiento": "2015-10-03",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "¿Quién Nos Va A Salvar?",
+        "tipo": "album",
+        "fecha_lanzamiento": "2013-10-09",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "The Shape Of Folk To Come",
+        "tipo": "album",
+        "fecha_lanzamiento": "2012-02-04",
+        "precision_fecha": "day",
+        "total_tracks": 8
+      },
+      {
+        "nombre": "La Vuelta",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-10-16",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Animales Escondidos",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-09-25",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Zona Galáctica",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-06-18",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Vida Se Gasta (Acústico en directo)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-06-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Colectivo Nostalgia",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-05-20",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "7:47 (Ni Un Minuto Más)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-10-22",
+        "precision_fecha": "day",
+        "total_tracks": 3
+      },
+      {
+        "nombre": "Héroes Del Sábado",
+        "tipo": "single",
+        "fecha_lanzamiento": "2017-09-22",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Inmensidad",
+        "tipo": "single",
+        "fecha_lanzamiento": "2017-09-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Ojalá",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-04-15",
+        "precision_fecha": "day",
+        "total_tracks": 4
+      },
+      {
+        "nombre": "PRMVR",
+        "tipo": "single",
+        "fecha_lanzamiento": "2015-02-24",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "No Easy Road",
+        "tipo": "single",
+        "fecha_lanzamiento": "2011-09-04",
+        "precision_fecha": "day",
+        "total_tracks": 6
+      }
+    ]
+  },
+  {
+    "nombre_buscado": "Vetusta Morla",
+    "id": "6J6yx1t3nwIDyPXk5xa7O8",
+    "nombre": "Vetusta Morla",
+    "generos": [],
+    "discografia": [
+      {
+        "nombre": "FIGURANTES",
+        "tipo": "album",
+        "fecha_lanzamiento": "2024-05-31",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Bailando Hasta el Apagón (Directo Estadio Metropolitano)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2022-12-16",
+        "precision_fecha": "day",
+        "total_tracks": 37
+      },
+      {
+        "nombre": "Cable a Tierra",
+        "tipo": "album",
+        "fecha_lanzamiento": "2021-11-25",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "La Hija (Banda Sonora Original)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2021-09-17",
+        "precision_fecha": "day",
+        "total_tracks": 14
+      },
+      {
+        "nombre": "MSDL- Canciones dentro de canciones",
+        "tipo": "album",
+        "fecha_lanzamiento": "2020-05-22",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "Mismo Sitio, Distinto Lugar",
+        "tipo": "album",
+        "fecha_lanzamiento": "2017-11-09",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "15151 (En Directo)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2015-04-21",
+        "precision_fecha": "day",
+        "total_tracks": 25
+      },
+      {
+        "nombre": "La Deriva",
+        "tipo": "album",
+        "fecha_lanzamiento": "2014-04-21",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Concierto Benéfico por el Conservatorio Narciso Yepes de Lorca (En Directo)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2013-04-21",
+        "precision_fecha": "day",
+        "total_tracks": 16
+      },
+      {
+        "nombre": "Los Ríos de Alice (Original Game Soundtrack)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2013-04-21",
+        "precision_fecha": "day",
+        "total_tracks": 14
+      },
+      {
+        "nombre": "Mapas",
+        "tipo": "album",
+        "fecha_lanzamiento": "2011-04-21",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Un Día en el Mundo",
+        "tipo": "album",
+        "fecha_lanzamiento": "2008-04-21",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "La Virgen de La Humanidad",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-09-29",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Reina de las trincheras (La Hija, Banda Sonora Original)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-08-26",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Finisterre",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-07-15",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Consejo de Sabios - MSDL",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-05-19",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Los Abrazos Prohibidos (feat. Alice Wonder, Andrés Suárez, Carlotta Cosials, Christina Rosenvinge, Dani Martin, Depedro, Eva Amaral, Ismael Serrano, Iván Ferreiro, Kase.O, Leiva, Luz Casal, Maika Makovski, Marwán, Nacho Vegas, Nina de Juan, Rozalén, Joaquín Sabina, Santi Balmes & Xoel López)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-05-08",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Mismo Sitio, Distinto Lugar - MSDL",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-03-27",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Punto Sin Retorno - MSDL",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-01-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Palmeras en La Mancha - MSDL",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-12-13",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Cuarteles de Invierno (#magasingle)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2015-04-21",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Puntos Suspensivos / Profetas de la Mañana",
+        "tipo": "single",
+        "fecha_lanzamiento": "2015-04-21",
+        "precision_fecha": "day",
+        "total_tracks": 2
+      },
+      {
+        "nombre": "Un Folio en Blanco",
+        "tipo": "single",
+        "fecha_lanzamiento": "2015-04-21",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Golpe Maestro",
+        "tipo": "single",
+        "fecha_lanzamiento": "2014-04-21",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Deriva",
+        "tipo": "single",
+        "fecha_lanzamiento": "2014-04-21",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      }
+    ]
+  },
+  {
+    "nombre_buscado": "Carolina Durante",
+    "id": "2BVE7Pqd8kxv9xEsuvoJoE",
+    "nombre": "Carolina Durante",
+    "generos": [],
+    "discografia": [
+      {
+        "nombre": "Elige Tu Propia Aventura",
+        "tipo": "album",
+        "fecha_lanzamiento": "2024-10-24",
+        "precision_fecha": "day",
+        "total_tracks": 13
+      },
+      {
+        "nombre": "Cuatro Chavales",
+        "tipo": "album",
+        "fecha_lanzamiento": "2022-01-27",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Carolina Durante",
+        "tipo": "album",
+        "fecha_lanzamiento": "2019-04-26",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "Hamburguesas",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-10-22",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "De viaje",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-10-21",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Misil",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-09-26",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Yo pensaba que me había tocado Dios",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-07-11",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Joderse La Vida",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-06-27",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Elige Tu Propia Aventura",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-05-23",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Markusiano",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-06-29",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Ya no hay verano",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-06-29",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Marta, Sebas, Guille y los demás",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-05-29",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Casa Kira",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-09-14",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Salvaje Pasión",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-04-14",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Granja escuela",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-01-25",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La planta que muere en la esquina",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-10-27",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "10",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-08-12",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Moreno de contrabando",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-07-15",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Famoso en tres calles",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-05-26",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Espacio Vacío",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-12-18",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Del Horno A La Boca",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-08-27",
+        "precision_fecha": "day",
+        "total_tracks": 3
+      },
+      {
+        "nombre": "No Tan Jóvenes",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-12-27",
+        "precision_fecha": "day",
+        "total_tracks": 2
+      },
+      {
+        "nombre": "Las Canciones De Juanita",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-03-26",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Joder, No Sé",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-03-08",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Perdona (Ahora Sí Que Sí)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-11-23",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Himno Titular",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-06-25",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Examiga",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-05-04",
+        "precision_fecha": "day",
+        "total_tracks": 3
+      },
+      {
+        "nombre": "Niña de Hielo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-04-18",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Cayetano",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-03-07",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Necromántico",
+        "tipo": "single",
+        "fecha_lanzamiento": "2017-12-22",
+        "precision_fecha": "day",
+        "total_tracks": 3
+      },
+      {
+        "nombre": "La Noche de los Muertos Vivientes",
+        "tipo": "single",
+        "fecha_lanzamiento": "2017-10-20",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      }
+    ]
+  },
+  {
+    "nombre_buscado": "Love of Lesbian",
+    "id": "6VCoG3MG7ZKRxDjaYOvtrF",
+    "nombre": "Love of Lesbian",
+    "generos": [],
+    "discografia": [
+      {
+        "nombre": "Ejército de salvación",
+        "tipo": "album",
+        "fecha_lanzamiento": "2024-10-11",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "V.E.H.N. (Viaje épico hacia la nada)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2021-04-16",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "El gran truco final",
+        "tipo": "album",
+        "fecha_lanzamiento": "2018-05-18",
+        "precision_fecha": "day",
+        "total_tracks": 22
+      },
+      {
+        "nombre": "El Poeta Halley",
+        "tipo": "album",
+        "fecha_lanzamiento": "2016-03-04",
+        "precision_fecha": "day",
+        "total_tracks": 13
+      },
+      {
+        "nombre": "La noche eterna. Los días no vividos",
+        "tipo": "album",
+        "fecha_lanzamiento": "2012-05-18",
+        "precision_fecha": "day",
+        "total_tracks": 18
+      },
+      {
+        "nombre": "1999 (o como generar incendios de nieve con una lupa enfocando la luna)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2009-03-31",
+        "precision_fecha": "day",
+        "total_tracks": 14
+      },
+      {
+        "nombre": "Cuentos Chinos para Niños del Japón",
+        "tipo": "album",
+        "fecha_lanzamiento": "2007-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 14
+      },
+      {
+        "nombre": "Maniobras de Escapismo",
+        "tipo": "album",
+        "fecha_lanzamiento": "2005-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Ungravity",
+        "tipo": "album",
+        "fecha_lanzamiento": "2003-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Is It Fiction?",
+        "tipo": "album",
+        "fecha_lanzamiento": "2001-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Ojalá (feat. Judit Neddermann)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2026-07-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Ejército de salvación (Ale Acosta Remix)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2026-04-17",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La hermandad (Bea Miau Remix)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2026-02-27",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Tu nombre",
+        "tipo": "single",
+        "fecha_lanzamiento": "2025-10-23",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Champions y el Mundial (feat. Leiva)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-10-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Ejército de salvación",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-09-27",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Tesis",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-08-30",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La hermandad",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-07-05",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "¿Qué vas a saber?",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-05-31",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Contradicción",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-04-26",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Allí Donde Solíamos Gritar",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-02-15",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Club de Fans de John Boy",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-10-05",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Bestia (feat. Love Of Lesbian)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-04-26",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Santa Lucía (En directo 2023)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-04-21",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El mundo (feat. Gaby Moreno)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-07-08",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Los irrompibles",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-04-14",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El sur (feat. Bunbury)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-03-03",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El mundo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-01-27",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Viaje épico hacia la nada",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-12-29",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Cosmos (Antisistema Solar)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-11-25",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La fuerza del destino",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-03-22",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Charlize SolTherón (De \"Memorias de un hombre en pijama\")",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-01-04",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El astronauta que vio a Elvis (De \"Memorias de un hombre en pijama\")",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-11-16",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Reina Leia",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-06-08",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Oniria e insomnia (En directo)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-05-11",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Nadie por las calles (En directo)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-05-04",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Belice (En directo)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-04-27",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Planeador",
+        "tipo": "single",
+        "fecha_lanzamiento": "2017-10-06",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Tan bé amb mi",
+        "tipo": "single",
+        "fecha_lanzamiento": "2017-07-12",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Nouvelle Cuisine Canibal, Vol. II",
+        "tipo": "single",
+        "fecha_lanzamiento": "2017-04-26",
+        "precision_fecha": "day",
+        "total_tracks": 3
+      },
+      {
+        "nombre": "I.M.T. (Incapacidad Moral Transitoria)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2017-04-07",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Psiconautas",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-02-26",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Yin y el Yen",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-02-12",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Cuando no me ves",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-02-05",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Bajo el volcán",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-01-15",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Mal español",
+        "tipo": "single",
+        "fecha_lanzamiento": "2014-05-13",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Manifiesto delirista",
+        "tipo": "single",
+        "fecha_lanzamiento": "2014-05-13",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Víctimas del porno (A tu laíto)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2014-05-13",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Fantastic Shine",
+        "tipo": "single",
+        "fecha_lanzamiento": "2013-06-04",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Si tu me dices Ben, yo digo Affleck (Rmx EME DJ)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2013-04-23",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Ultimos dias de 1999. Aquellas noches de incendio (Live)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2011-09-13",
+        "precision_fecha": "day",
+        "total_tracks": 4
+      },
+      {
+        "nombre": "John boy",
+        "tipo": "single",
+        "fecha_lanzamiento": "2010-12-10",
+        "precision_fecha": "day",
+        "total_tracks": 4
+      },
+      {
+        "nombre": "Lucha De Gigantes",
+        "tipo": "single",
+        "fecha_lanzamiento": "2010-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Allí donde solíamos gritar (Remixed by DJ Amable)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2009-08-04",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      }
+    ]
+  },
+  {
+    "nombre_buscado": "Izal",
+    "id": "2hazSY4Ef3aB9ATXW7F5w3",
+    "nombre": "IZAL",
+    "generos": [],
+    "discografia": [
+      {
+        "nombre": "Pequeños Grandes Éxitos",
+        "tipo": "album",
+        "fecha_lanzamiento": "2023-03-24",
+        "precision_fecha": "day",
+        "total_tracks": 22
+      },
+      {
+        "nombre": "Hogar",
+        "tipo": "album",
+        "fecha_lanzamiento": "2021-10-29",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Autoterapia",
+        "tipo": "album",
+        "fecha_lanzamiento": "2018-03-09",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "VIVO (En Directo)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2017-05-12",
+        "precision_fecha": "day",
+        "total_tracks": 22
+      },
+      {
+        "nombre": "Copacabana",
+        "tipo": "album",
+        "fecha_lanzamiento": "2015-09-18",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Directo Sonorama 2014 (En Directo)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2014-11-17",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Agujeros de Gusano",
+        "tipo": "album",
+        "fecha_lanzamiento": "2013-10-29",
+        "precision_fecha": "day",
+        "total_tracks": 13
+      },
+      {
+        "nombre": "Magia & Efectos Especiales",
+        "tipo": "album",
+        "fecha_lanzamiento": "2012-04-12",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Dobles",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-10-28",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Telepatía",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-10-27",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Mala Educación",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-10-26",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Jóvenes Perfect@s",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-10-25",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Hombre del Futuro",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-10-24",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "He Vuelto",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-10-23",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Inercia",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-10-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Fotografías",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-09-02",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Meiuqèr",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-06-16",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Buena Sombra",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-04-17",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Micro Abierto",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-03-09",
+        "precision_fecha": "day",
+        "total_tracks": 4
+      },
+      {
+        "nombre": "El Pozo (Wisemen Project & Elyella Remix)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-06-27",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Vencedores invisibles",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-02-15",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Nubes de papel (feat. IZAL) [En Estudio Uno]",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-09-28",
+        "precision_fecha": "day",
+        "total_tracks": 2
+      },
+      {
+        "nombre": "Pausa",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-02-23",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Pozo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-02-09",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "En Aire y Hueso",
+        "tipo": "single",
+        "fecha_lanzamiento": "2015-09-11",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Copacabana",
+        "tipo": "single",
+        "fecha_lanzamiento": "2015-07-14",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Agujeros De Gusano",
+        "tipo": "single",
+        "fecha_lanzamiento": "2013-10-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Hambre",
+        "tipo": "single",
+        "fecha_lanzamiento": "2013-09-24",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Teletransporte",
+        "tipo": "single",
+        "fecha_lanzamiento": "2010-11-01",
+        "precision_fecha": "day",
+        "total_tracks": 6
+      }
+    ]
+  },
+  {
+    "nombre_buscado": "Ultraligera",
+    "id": "5Vv5llyiK1nlME2UNDzPBB",
+    "nombre": "Ultraligera",
+    "generos": [],
+    "discografia": [
+      {
+        "nombre": "Pelo De Foca",
+        "tipo": "album",
+        "fecha_lanzamiento": "2025-03-07",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "ALGUNA PELÍCULA",
+        "tipo": "single",
+        "fecha_lanzamiento": "2026-06-19",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "TU PROBLEMA",
+        "tipo": "single",
+        "fecha_lanzamiento": "2026-04-30",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "CUANDO TODO VAYA MAL",
+        "tipo": "single",
+        "fecha_lanzamiento": "2026-03-27",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "LAPSUS",
+        "tipo": "single",
+        "fecha_lanzamiento": "2026-02-27",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Mírame",
+        "tipo": "single",
+        "fecha_lanzamiento": "2025-02-07",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Pelo De Foca",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-11-08",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Nunca Nadie",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-10-18",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Matanza En El Hotel",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-09-27",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Pueblo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-09-26",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Silla de Mimbre",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-07-19",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Tú No Lo Ves",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-06-21",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Basura",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-05-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Europa",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-12-08",
+        "precision_fecha": "day",
+        "total_tracks": 6
+      },
+      {
+        "nombre": "Europa",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-05-26",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Amor Amor",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-04-14",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Mala Manía",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-10-06",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Europa",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-05-19",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Si Tú Supieras",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-03-31",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Recuerdos del Baile",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-02-14",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Hasta el Fondo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-12-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Mierda de Fiesta",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-10-15",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      }
+    ]
+  },
+  {
+    "nombre_buscado": "Sidonie",
+    "id": "2pMVWkucVS130nJx59uAEa",
+    "nombre": "Sidonie",
+    "generos": [],
+    "discografia": [
+      {
+        "nombre": "Catalan Graffiti",
+        "tipo": "album",
+        "fecha_lanzamiento": "2025-11-14",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Marc, Axel y Jes",
+        "tipo": "album",
+        "fecha_lanzamiento": "2023-10-27",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "El Regreso de Abba",
+        "tipo": "album",
+        "fecha_lanzamiento": "2020-10-02",
+        "precision_fecha": "day",
+        "total_tracks": 23
+      },
+      {
+        "nombre": "Lo Más Maravilloso",
+        "tipo": "album",
+        "fecha_lanzamiento": "2018-11-23",
+        "precision_fecha": "day",
+        "total_tracks": 20
+      },
+      {
+        "nombre": "El Peor Grupo del Mundo",
+        "tipo": "album",
+        "fecha_lanzamiento": "2016-09-30",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "Sierra y Canada",
+        "tipo": "album",
+        "fecha_lanzamiento": "2014-03-24",
+        "precision_fecha": "day",
+        "total_tracks": 13
+      },
+      {
+        "nombre": "El Fluido Garcia",
+        "tipo": "album",
+        "fecha_lanzamiento": "2011-10-18",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "El Incendio",
+        "tipo": "album",
+        "fecha_lanzamiento": "2009-08-18",
+        "precision_fecha": "day",
+        "total_tracks": 13
+      },
+      {
+        "nombre": "Costa Azul",
+        "tipo": "album",
+        "fecha_lanzamiento": "2007-06-14",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Fascinado",
+        "tipo": "album",
+        "fecha_lanzamiento": "2005-03-17",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Shell Kids",
+        "tipo": "album",
+        "fecha_lanzamiento": "2003-09-22",
+        "precision_fecha": "day",
+        "total_tracks": 14
+      },
+      {
+        "nombre": "Sidonie",
+        "tipo": "album",
+        "fecha_lanzamiento": "2002-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "La matanza de Texas",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-06-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Instante",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-02-16",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Me gustas todo el rato",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-10-06",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "No salgo más",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-09-08",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "CEDÉ",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-06-23",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Solo Pienso en Ti - Tributo a Víctor Manuel (feat. Dani Martin, Iván Ferreiro, Jorge Drexler, Rozalén & Santi Balmes) [Versión 2022]",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-07-07",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Covid (feat. Sidonie)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-02-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Nirvana Internacional (Edu Martínez Remix)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-01-27",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Me Faltas Mucho",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-12-17",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Mi Vida Es la Música (with Delaporte) [Remix]",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-11-25",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Me Llamo Abba (with Kimberley Tell) [Innmir Remix]",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-11-11",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Verano del Amor (Alexander Som & Ley DJ Remix)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-07-22",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Verano del Amor",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-08-21",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Me Llamo Abba (with Kimberley Tell)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-04-09",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Fascinados (feat. Joan Manuel Serrat, Leiva, Vetusta Morla, Iván Ferreiro, Loquillo, Zahara, Dani Martin, Albert Pla, Mikel (Izal), Noni (Lori Meyers), Santi Balmes, Xoel López, Anni B Sweet, Jeanette, Carlos Sadness, Nina (Morgan), Juan Alberto (Niños Mutantes), Miri Ros, Javiera Mena, Jorge Martí (La Habitación Roja), Rafa Val (Viva Suecia), Marc (Dorian), Alondra Bentley, Abraham Boba, CARLANGAS, La Bien Querida, Martí Perarnau IV (Mucho), Nita (Fuel Fandango) & Shuarma (Elefantes))",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-11-23",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Maravilloso",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-06-15",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Peor Grupo del Mundo (Guille Milkyway Remix) / Siglo XX (Edu Martínez Remix)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2017-10-20",
+        "precision_fecha": "day",
+        "total_tracks": 2
+      },
+      {
+        "nombre": "Eclipse Personal",
+        "tipo": "single",
+        "fecha_lanzamiento": "2015-12-11",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Una Guitarra",
+        "tipo": "single",
+        "fecha_lanzamiento": "2015-02-02",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Sierra y Canada (Historia de Amor Asincronico)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2014-02-24",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "A Mil Años Luz",
+        "tipo": "single",
+        "fecha_lanzamiento": "2011-10-04",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Bosque",
+        "tipo": "single",
+        "fecha_lanzamiento": "2011-09-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Incendio",
+        "tipo": "single",
+        "fecha_lanzamiento": "2009-07-09",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Somriu (feat. Love Of Lesbian) [Smile]",
+        "tipo": "single",
+        "fecha_lanzamiento": "2008-10-08",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Los Olvidados (Con Blanca Romero)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2008-05-13",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "LET IT SHINE",
+        "tipo": "single",
+        "fecha_lanzamiento": "2002-02-01",
+        "precision_fecha": "day",
+        "total_tracks": 6
+      },
+      {
+        "nombre": "Venusian Dreams",
+        "tipo": "single",
+        "fecha_lanzamiento": "2001-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 3
+      },
+      {
+        "nombre": "Venusian Dreams",
+        "tipo": "single",
+        "fecha_lanzamiento": "2001",
+        "precision_fecha": "year",
+        "total_tracks": 3
+      },
+      {
+        "nombre": "Dragonfly",
+        "tipo": "single",
+        "fecha_lanzamiento": "2000-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 5
+      }
+    ]
+  },
+  {
+    "nombre_buscado": "Viva Suecia",
+    "id": "57s0ep3eNSg81D7ZxiuHbC",
+    "nombre": "Viva Suecia",
+    "generos": [],
+    "discografia": [
+      {
+        "nombre": "Hecho En Tiempos De Paz",
+        "tipo": "album",
+        "fecha_lanzamiento": "2025-10-09",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "El Amor De La Clase Que Sea (Edición Especial)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2023-12-14",
+        "precision_fecha": "day",
+        "total_tracks": 16
+      },
+      {
+        "nombre": "El Amor De La Clase Que Sea",
+        "tipo": "album",
+        "fecha_lanzamiento": "2022-10-06",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "El Milagro",
+        "tipo": "album",
+        "fecha_lanzamiento": "2019-10-04",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Otros Principios Fundamentales (Edición Deluxe)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2017-10-27",
+        "precision_fecha": "day",
+        "total_tracks": 13
+      },
+      {
+        "nombre": "Otros Principios Fundamentales",
+        "tipo": "album",
+        "fecha_lanzamiento": "2017-03-03",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "La Fuerza Mayor",
+        "tipo": "album",
+        "fecha_lanzamiento": "2016-02-19",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Querer (DJ Nano Remix)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2026-07-23",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Dolor y Gloria",
+        "tipo": "single",
+        "fecha_lanzamiento": "2026-05-14",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Querer",
+        "tipo": "single",
+        "fecha_lanzamiento": "2025-09-11",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Sangre",
+        "tipo": "single",
+        "fecha_lanzamiento": "2025-06-12",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Deja Encendida Una Luz",
+        "tipo": "single",
+        "fecha_lanzamiento": "2025-04-24",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Dolor y Gloria",
+        "tipo": "single",
+        "fecha_lanzamiento": "2025-02-20",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Orilla",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-04-18",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Alegría De Vivir",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-04-14",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Hablar De Nada",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-11-23",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Voz Del Presidente (DJ Nano Remix)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-09-28",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Últimas Voluntades (Canción Original De La Película)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-03-22",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Bien",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-10-03",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Lo Siento",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-09-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Rey Desnudo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-07-20",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Justo Cuando El Mundo Apriete",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-05-26",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "No Hemos Aprendido Nada",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-03-24",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Parar La Tierra",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-06-22",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Voz Del Presidente",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-05-20",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Algunos Tenemos Fe",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-09-06",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Lo Que Te Mereces",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-06-14",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Amar el Conflicto (todo Lo Que Importa)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-06-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Hoy Empieza Todo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-03-09",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Casi Todo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2017-10-20",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "A Dónde Ir (David Kano Remix)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2017-05-26",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Hemos Ganado Tiempo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2017-02-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "A Dónde Ir",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-12-02",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Permiso o Perdón",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-02-19",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Bien por Ti",
+        "tipo": "single",
+        "fecha_lanzamiento": "2015-12-04",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Viva Suecia",
+        "tipo": "single",
+        "fecha_lanzamiento": "2014-10-28",
+        "precision_fecha": "day",
+        "total_tracks": 5
+      },
+      {
+        "nombre": "Los Años",
+        "tipo": "single",
+        "fecha_lanzamiento": "2014-07-16",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      }
+    ]
+  },
+  {
+    "nombre_buscado": "La Oreja de Van Gogh",
+    "id": "4U7lXyKdSf1JbM1aXvsodC",
+    "nombre": "La Oreja de Van Gogh",
+    "generos": [],
+    "discografia": [
+      {
+        "nombre": "LA OREJA DE VAN GOGH (ACOUSTIC HOME sessions)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2023-03-31",
+        "precision_fecha": "day",
+        "total_tracks": 7
+      },
+      {
+        "nombre": "Esencial La Oreja de Van Gogh",
+        "tipo": "album",
+        "fecha_lanzamiento": "2021-06-04",
+        "precision_fecha": "day",
+        "total_tracks": 30
+      },
+      {
+        "nombre": "Un Susurro en la Tormenta",
+        "tipo": "album",
+        "fecha_lanzamiento": "2020-09-19",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "El Planeta Imaginario",
+        "tipo": "album",
+        "fecha_lanzamiento": "2016-11-04",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Primera Fila",
+        "tipo": "album",
+        "fecha_lanzamiento": "2013-10-28",
+        "precision_fecha": "day",
+        "total_tracks": 15
+      },
+      {
+        "nombre": "Cometas por el Cielo en Directo Desde América",
+        "tipo": "album",
+        "fecha_lanzamiento": "2012-09-18",
+        "precision_fecha": "day",
+        "total_tracks": 15
+      },
+      {
+        "nombre": "Cometas Por El Cielo",
+        "tipo": "album",
+        "fecha_lanzamiento": "2011-09-13",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Cometas Por El Cielo (Expanded)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2011-09-13",
+        "precision_fecha": "day",
+        "total_tracks": 14
+      },
+      {
+        "nombre": "Nuestra Casa a la Izquierda del Tiempo",
+        "tipo": "album",
+        "fecha_lanzamiento": "2009-10-20",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "A las Cinco en el Astoria",
+        "tipo": "album",
+        "fecha_lanzamiento": "2008-09-30",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Guapa",
+        "tipo": "album",
+        "fecha_lanzamiento": "2007-04-09",
+        "precision_fecha": "day",
+        "total_tracks": 15
+      },
+      {
+        "nombre": "Mas Guapa",
+        "tipo": "album",
+        "fecha_lanzamiento": "2006",
+        "precision_fecha": "year",
+        "total_tracks": 26
+      },
+      {
+        "nombre": "París",
+        "tipo": "album",
+        "fecha_lanzamiento": "2004-05-10",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "La Oreja de Van Gogh en Directo",
+        "tipo": "album",
+        "fecha_lanzamiento": "2004-04-19",
+        "precision_fecha": "day",
+        "total_tracks": 18
+      },
+      {
+        "nombre": "Lo Que Te Conte Mientras Te Hacias La Dormida",
+        "tipo": "album",
+        "fecha_lanzamiento": "2003",
+        "precision_fecha": "year",
+        "total_tracks": 15
+      },
+      {
+        "nombre": "El Viaje de Copperpot",
+        "tipo": "album",
+        "fecha_lanzamiento": "2000-09-07",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Dile al Sol",
+        "tipo": "album",
+        "fecha_lanzamiento": "1998-05-18",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "A Este Lado del Cristal",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-12-22",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "médula (REPUTA)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020",
+        "precision_fecha": "year",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Elcano y Magallanes, La Primera Vuelta al Mundo (Tema Central de la Película)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-06-21",
+        "precision_fecha": "day",
+        "total_tracks": 3
+      },
+      {
+        "nombre": "La Chica del Espejo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-10-19",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Estoy Contigo (feat. Ana Torroja, Andrés Suárez, David Otero, Funambulista, India Martinez, Iván Ferreiro, Maldita Nerea, Melendi, Rozalén & Vanesa Martin)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2017-09-21",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Campana Sobre Campana",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-12-23",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Camino de Tu Corazón",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-11-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Diciembre",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-10-28",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Estoy Contigo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-10-07",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Otra Vez Me Has Sacado a Bailar",
+        "tipo": "single",
+        "fecha_lanzamiento": "2013-01-22",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Cometas Por El Cielo (Remixes)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2012-06-05",
+        "precision_fecha": "day",
+        "total_tracks": 7
+      },
+      {
+        "nombre": "Cometas Por El Cielo (Carlos Jean Remix)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2012-05-29",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Luz Que Nace En Ti",
+        "tipo": "single",
+        "fecha_lanzamiento": "2011-11-29",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Niña Que Llora en Tus Fiestas",
+        "tipo": "single",
+        "fecha_lanzamiento": "2011-07-26",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Cuentame al Oido",
+        "tipo": "single",
+        "fecha_lanzamiento": "2009-10-06",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Ultimo Vals",
+        "tipo": "single",
+        "fecha_lanzamiento": "2008-07-15",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Només Tu (Nadie como Tu)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2007-10-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Muñeca De Trapo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2006-01-31",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Dulce Locura (Remasterizado 2024)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2006",
+        "precision_fecha": "year",
+        "total_tracks": 2
+      },
+      {
+        "nombre": "Bonustrack",
+        "tipo": "single",
+        "fecha_lanzamiento": "2004-08-30",
+        "precision_fecha": "day",
+        "total_tracks": 4
+      },
+      {
+        "nombre": "20 de Enero (Remasterizado 2024)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2003",
+        "precision_fecha": "year",
+        "total_tracks": 3
+      },
+      {
+        "nombre": "Deseos de Cosas Imposibles (Remasterizado 2024)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2003",
+        "precision_fecha": "year",
+        "total_tracks": 2
+      },
+      {
+        "nombre": "Geografía (Remasterizado 2024)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2003",
+        "precision_fecha": "year",
+        "total_tracks": 4
+      },
+      {
+        "nombre": "Puedes Contar Conmigo (Remasterizado 2024)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2003",
+        "precision_fecha": "year",
+        "total_tracks": 3
+      },
+      {
+        "nombre": "Vestido Azul (Remasterizado 2024)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2003",
+        "precision_fecha": "year",
+        "total_tracks": 4
+      },
+      {
+        "nombre": "Cuéntame al Oido",
+        "tipo": "single",
+        "fecha_lanzamiento": "1998-12-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El 28",
+        "tipo": "single",
+        "fecha_lanzamiento": "1998-05-18",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      }
+    ]
+  },
+  {
+    "nombre_buscado": "Melendi",
+    "id": "1EXjXQpDx2pROygh8zvHs4",
+    "nombre": "Melendi",
+    "generos": [],
+    "discografia": [
+      {
+        "nombre": "Pop Rock",
+        "tipo": "album",
+        "fecha_lanzamiento": "2026-05-08",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "20 Años Sin Noticias",
+        "tipo": "album",
+        "fecha_lanzamiento": "2023-11-10",
+        "precision_fecha": "day",
+        "total_tracks": 14
+      },
+      {
+        "nombre": "Likes y Cicatrices",
+        "tipo": "album",
+        "fecha_lanzamiento": "2021-11-05",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "10:20:40",
+        "tipo": "album",
+        "fecha_lanzamiento": "2019-11-29",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Ahora",
+        "tipo": "album",
+        "fecha_lanzamiento": "2018-03-09",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Yo me veo contigo",
+        "tipo": "album",
+        "fecha_lanzamiento": "2017-12-08",
+        "precision_fecha": "day",
+        "total_tracks": 69
+      },
+      {
+        "nombre": "Quítate las Gafas",
+        "tipo": "album",
+        "fecha_lanzamiento": "2016-11-11",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Directo a Septiembre (Gira Un Alumno Más)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2015-12-04",
+        "precision_fecha": "day",
+        "total_tracks": 28
+      },
+      {
+        "nombre": "Un alumno más",
+        "tipo": "album",
+        "fecha_lanzamiento": "2014-11-25",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Lágrimas desordenadas",
+        "tipo": "album",
+        "fecha_lanzamiento": "2012-11-13",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Lágrimas desordenadas (Deluxe)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2012-11-13",
+        "precision_fecha": "day",
+        "total_tracks": 14
+      },
+      {
+        "nombre": "Volvamos a empezar",
+        "tipo": "album",
+        "fecha_lanzamiento": "2010-10-29",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Volvamos a empezar (Deluxe edition)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2010-10-29",
+        "precision_fecha": "day",
+        "total_tracks": 15
+      },
+      {
+        "nombre": "Aún Más Curiosa La Cara De Tu Padre",
+        "tipo": "album",
+        "fecha_lanzamiento": "2009-03-24",
+        "precision_fecha": "day",
+        "total_tracks": 21
+      },
+      {
+        "nombre": "Curiosa La Cara De Tu Padre",
+        "tipo": "album",
+        "fecha_lanzamiento": "2008-09-16",
+        "precision_fecha": "day",
+        "total_tracks": 14
+      },
+      {
+        "nombre": "Caminando Por La Vida [USA Release]",
+        "tipo": "album",
+        "fecha_lanzamiento": "2008-04-22",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Mientras No Cueste Más Trabajo",
+        "tipo": "album",
+        "fecha_lanzamiento": "2007-09-28",
+        "precision_fecha": "day",
+        "total_tracks": 20
+      },
+      {
+        "nombre": "Mientras No Cueste Trabajo",
+        "tipo": "album",
+        "fecha_lanzamiento": "2006-11-13",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Sin Noticias De Holanda",
+        "tipo": "album",
+        "fecha_lanzamiento": "2006-07-14",
+        "precision_fecha": "day",
+        "total_tracks": 16
+      },
+      {
+        "nombre": "Que El Cielo Espere Sentao..",
+        "tipo": "album",
+        "fecha_lanzamiento": "2005",
+        "precision_fecha": "year",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Mentiras Arriesgadas",
+        "tipo": "single",
+        "fecha_lanzamiento": "2026-04-24",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "No Me Des la Tabarra",
+        "tipo": "single",
+        "fecha_lanzamiento": "2026-03-27",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Fecha de Caducidad",
+        "tipo": "single",
+        "fecha_lanzamiento": "2026-02-27",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Secreto De Las Tortugas (MN&M Edition)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2025-11-07",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Himno del Centenario Real Oviedo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2025-07-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Llegó la Navidad",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-12-15",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Desde Mi Ventana",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-11-09",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Echarte a Suertes",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-11-09",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Informe del Forense",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-11-09",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Mi Rumbita Pa´ Tus Pies",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-11-09",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Por Amarte Tanto",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-11-09",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Sin Noticias de Holanda",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-11-09",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Sé lo Que Hicisteis (feat. Natos y Waor)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-11-09",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Un Recuerdo Que Olvidar",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-11-09",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Con Solo una Sonrisa",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-10-27",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Hablando En Plata",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-10-06",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Con La Luna Llena",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-09-08",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Gracias Por Venir",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-02-11",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Pan Para Yolanda",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-10-06",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "SI ELLA SUPIERA",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-09-02",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Virgen de las Nieves",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-11-22",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Simplemente Dilo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-10-07",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Likes y Cicatrices",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-09-03",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Boca Junta",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-07-29",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Desde cero (con Melendi)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-01-13",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Ciego",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-10-18",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Por Encima de la Bruma",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-10-11",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Dímelo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-08-22",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Cielo Nunca Cambiará",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-01-11",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Besos a la Lona",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-11-30",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Aves de Paso",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-07-27",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Mírame (Acústico)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-06-15",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Destino o casualidad",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-05-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Arrepentido",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-01-19",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Destino o casualidad",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-11-11",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Existen los ángeles",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-11-11",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Yo me veo contigo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-11-11",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Más allá de nuestros recuerdos (Hit)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2015-01-11",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Tocado y hundido",
+        "tipo": "single",
+        "fecha_lanzamiento": "2014-09-16",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Mi generación",
+        "tipo": "single",
+        "fecha_lanzamiento": "2013-11-05",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Lágrimas desordenadas",
+        "tipo": "single",
+        "fecha_lanzamiento": "2012-11-13",
+        "precision_fecha": "day",
+        "total_tracks": 4
+      },
+      {
+        "nombre": "Cuestion de prioridades por el cuerno de Africa",
+        "tipo": "single",
+        "fecha_lanzamiento": "2012-01-20",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Marco",
+        "tipo": "single",
+        "fecha_lanzamiento": "2011-12-27",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Ulls dolços",
+        "tipo": "single",
+        "fecha_lanzamiento": "2011-07-12",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Un violinista en tu tejado",
+        "tipo": "single",
+        "fecha_lanzamiento": "2008-08-15",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Carlota",
+        "tipo": "single",
+        "fecha_lanzamiento": "2008-03-28",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Nano",
+        "tipo": "single",
+        "fecha_lanzamiento": "2008-02-29",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Por amarte tanto",
+        "tipo": "single",
+        "fecha_lanzamiento": "2007-10-05",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Me gusta el fútbol",
+        "tipo": "single",
+        "fecha_lanzamiento": "2007-08-17",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Calle la Pantomima",
+        "tipo": "single",
+        "fecha_lanzamiento": "2007-06-15",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Caminando por la vida",
+        "tipo": "single",
+        "fecha_lanzamiento": "2007-06-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Con la luna llena",
+        "tipo": "single",
+        "fecha_lanzamiento": "2007-06-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Con sólo una sonrisa",
+        "tipo": "single",
+        "fecha_lanzamiento": "2007-06-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Kisiera yo saber",
+        "tipo": "single",
+        "fecha_lanzamiento": "2006-10-20",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Himno eventual del Real Oviedo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2006-09-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Gangs Of London",
+        "tipo": "single",
+        "fecha_lanzamiento": "2006-07-28",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      }
+    ]
+  },
+  {
+    "nombre_buscado": "Dorian",
+    "id": "6GoZ2axiSqX91WzMrvJfWk",
+    "nombre": "Dorian",
+    "generos": [],
+    "discografia": [
+      {
+        "nombre": "Futuros Imposibles",
+        "tipo": "album",
+        "fecha_lanzamiento": "2024-10-25",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "DORIAN en el Liceu de Barcelona: Una noche en la vida (En directo)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2023-11-29",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Ritual",
+        "tipo": "album",
+        "fecha_lanzamiento": "2022-04-22",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Pleine Lune",
+        "tipo": "album",
+        "fecha_lanzamiento": "2019-05-19",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Justicia Universal",
+        "tipo": "album",
+        "fecha_lanzamiento": "2018-05-25",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "En Arenal Sound: Diez Años en un Día (En Directo)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2016-06-30",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Diez Años y un Día",
+        "tipo": "album",
+        "fecha_lanzamiento": "2015-04-13",
+        "precision_fecha": "day",
+        "total_tracks": 13
+      },
+      {
+        "nombre": "La Velocidad Del Vacío",
+        "tipo": "album",
+        "fecha_lanzamiento": "2013-03-04",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "La Ciudad Subterránea",
+        "tipo": "album",
+        "fecha_lanzamiento": "2009-09-13",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "El Futuro No Es De Nadie",
+        "tipo": "album",
+        "fecha_lanzamiento": "2007-02-26",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "10.000 Metrópolis",
+        "tipo": "album",
+        "fecha_lanzamiento": "2004-11-30",
+        "precision_fecha": "day",
+        "total_tracks": 9
+      },
+      {
+        "nombre": "10.000 Metrópolis (Edición Deluxe)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2004-11-30",
+        "precision_fecha": "day",
+        "total_tracks": 17
+      },
+      {
+        "nombre": "Paraísos Artificiales en el Liceu de Barcelona (En directo)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-11-22",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Temblor en el Liceu de Barcelona (En Directo)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-10-26",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Techos de Cristal",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-06-07",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Techos de cristal (Delaporte Remix)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-06-07",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Cualquier Otra Parte (DJ Nano Remix)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-03-22",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Energía Rara (David van Bylen Remix)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-11-11",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Deux vies",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-06-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Energía Rara",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-04-20",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "No dejes que pase el tiempo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-03-24",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Tornado",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-02-23",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Universal",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-01-26",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "FTS",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-01-02",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Dos vidas",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-12-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Dual",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-12-11",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Cometas (Radio Edit)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-05-22",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Isla",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-07-05",
+        "precision_fecha": "day",
+        "total_tracks": 2
+      },
+      {
+        "nombre": "Buenas Intenciones (En Directo)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-03-15",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Vicios y Defectos",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-11-30",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Algunos Amigos",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-05-25",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Duele",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-05-18",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Justicia Universal",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-04-20",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Noches Blancas",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-03-09",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Hasta Que Caiga el Sol",
+        "tipo": "single",
+        "fecha_lanzamiento": "2017-06-08",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Temblor (En Directo en Arenal Sound)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-06-24",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Paraísos Artificiales (En Directo en Arenal Sound)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-06-17",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Verte Amanecer (En Directo en Arenal Sound)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-06-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Los Amigos Que Perdí",
+        "tipo": "single",
+        "fecha_lanzamiento": "2015-03-24",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Arrecife",
+        "tipo": "single",
+        "fecha_lanzamiento": "2015-03-05",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Cualquier Otra Parte",
+        "tipo": "single",
+        "fecha_lanzamiento": "2015-03-05",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Armas para Volar",
+        "tipo": "single",
+        "fecha_lanzamiento": "2014-10-07",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Los Amigos Que Perdi",
+        "tipo": "single",
+        "fecha_lanzamiento": "2013-02-18",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Tormenta De Arena (3Msc)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2010-12-27",
+        "precision_fecha": "day",
+        "total_tracks": 3
+      },
+      {
+        "nombre": "Paraísos Artificiales",
+        "tipo": "single",
+        "fecha_lanzamiento": "2009-08-30",
+        "precision_fecha": "day",
+        "total_tracks": 2
+      },
+      {
+        "nombre": "Solar",
+        "tipo": "single",
+        "fecha_lanzamiento": "2003-09-05",
+        "precision_fecha": "day",
+        "total_tracks": 3
+      }
+    ]
+  },
+  {
+    "nombre_buscado": "Lori Meyers",
+    "id": "3mOsjj1MhocRVwOejIZlTi",
+    "nombre": "Lori Meyers",
+    "generos": [],
+    "discografia": [
+      {
+        "nombre": "Espacios Infinitos",
+        "tipo": "album",
+        "fecha_lanzamiento": "2021-10-21",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Directo En Madrid Wizink Center",
+        "tipo": "album",
+        "fecha_lanzamiento": "2020-01-23",
+        "precision_fecha": "day",
+        "total_tracks": 30
+      },
+      {
+        "nombre": "En La Espiral",
+        "tipo": "album",
+        "fecha_lanzamiento": "2017-02-17",
+        "precision_fecha": "day",
+        "total_tracks": 13
+      },
+      {
+        "nombre": "Impronta",
+        "tipo": "album",
+        "fecha_lanzamiento": "2013-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Cuando El Destino Nos Alcance",
+        "tipo": "album",
+        "fecha_lanzamiento": "2010-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Cronolanea",
+        "tipo": "album",
+        "fecha_lanzamiento": "2008-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 13
+      },
+      {
+        "nombre": "Hostal Pimodan",
+        "tipo": "album",
+        "fecha_lanzamiento": "2006-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 19
+      },
+      {
+        "nombre": "Viaje De Estudios",
+        "tipo": "album",
+        "fecha_lanzamiento": "2004",
+        "precision_fecha": "year",
+        "total_tracks": 17
+      },
+      {
+        "nombre": "MALAFOLLÁ",
+        "tipo": "single",
+        "fecha_lanzamiento": "2026-06-04",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "EN LO TOTAL",
+        "tipo": "single",
+        "fecha_lanzamiento": "2026-04-15",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Hacerte Volar (INNMIR Remix)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2025-03-20",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "MODA",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-09-26",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Tú Ya No Dices Nada",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-12-12",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "No Me Merecía La Pena",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-04-13",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Házmelo Saber (Villancico)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-12-15",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "1000 Noches",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-06-23",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Déjà vu",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-04-21",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Vuelvo a Granada",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-04-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Vámonos De Aquí",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-03-17",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "No Hay Excusa",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-10-19",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Hacerte Volar",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-07-19",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Presente",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-05-13",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Punk",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-04-13",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Siempre Brilla El Sol (Acústico)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-06-03",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Tercer Tipo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-04-03",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Telescopio Hubble",
+        "tipo": "single",
+        "fecha_lanzamiento": "2015-04-07",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Hombre A Tierra (De La B.S.O. Los Juegos Del Hambre: En Llamas)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2013-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Mi Realidad (David Kano Remix)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2010-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Mi Realidad (Sidechains Remix)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2010-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      }
+    ]
+  },
+  {
+    "nombre_buscado": "Estopa",
+    "id": "5ZqnEfVdEGmoPxtELhN7ai",
+    "nombre": "Estopa",
+    "generos": [],
+    "discografia": [
+      {
+        "nombre": "Estopía",
+        "tipo": "album",
+        "fecha_lanzamiento": "2024-03-15",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "ESTOPA (ACOUSTIC HOME sessions)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2023-06-23",
+        "precision_fecha": "day",
+        "total_tracks": 7
+      },
+      {
+        "nombre": "Fuego",
+        "tipo": "album",
+        "fecha_lanzamiento": "2019-10-18",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Rumba a Lo Desconocido",
+        "tipo": "album",
+        "fecha_lanzamiento": "2015-10-02",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Esto Es Estopa (Directo Acústico)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2014-02-17",
+        "precision_fecha": "day",
+        "total_tracks": 15
+      },
+      {
+        "nombre": "2.0 (Instrumental)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2011-12-20",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "2.0",
+        "tipo": "album",
+        "fecha_lanzamiento": "2011-11-21",
+        "precision_fecha": "day",
+        "total_tracks": 13
+      },
+      {
+        "nombre": "X Anniversarivm",
+        "tipo": "album",
+        "fecha_lanzamiento": "2009-11-17",
+        "precision_fecha": "day",
+        "total_tracks": 24
+      },
+      {
+        "nombre": "Allenrok",
+        "tipo": "album",
+        "fecha_lanzamiento": "2008-02-22",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Voces de Ultrarumba",
+        "tipo": "album",
+        "fecha_lanzamiento": "2005-11-16",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "La Calle Es Tuya?",
+        "tipo": "album",
+        "fecha_lanzamiento": "2004-02-24",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Más Destrangis",
+        "tipo": "album",
+        "fecha_lanzamiento": "2002-04-01",
+        "precision_fecha": "day",
+        "total_tracks": 16
+      },
+      {
+        "nombre": "Destrangis",
+        "tipo": "album",
+        "fecha_lanzamiento": "2001-10-23",
+        "precision_fecha": "day",
+        "total_tracks": 13
+      },
+      {
+        "nombre": "Estopa",
+        "tipo": "album",
+        "fecha_lanzamiento": "1999-10-18",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Bossanova (Yungberto Remix)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-05-17",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Ranchera",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-02-09",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Día Que Tú Te Marches",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-12-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Rumba del Pescaílla",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-11-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Diablo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-09-02",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Rumbapop",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-06-24",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Camiseta de Rokanrol",
+        "tipo": "single",
+        "fecha_lanzamiento": "2022-02-24",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El madero",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-04-14",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Despertar",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-12-03",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Serpiente y la Luna (Versión Maqueta)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-06-26",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Camiseta de Rokanrol (Versión Maqueta)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-06-19",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Rueda de la Fortuna (Versión Maqueta)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-06-12",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Fuego (Versión Maqueta)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-06-05",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Atrapado",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-09-20",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Yo No Estoy Loco",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-09-06",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Fuego",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-05-31",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Rumba Triste (Directo Acústico)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2014-06-16",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Spotify Sessions (Live)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2014-05-05",
+        "precision_fecha": "day",
+        "total_tracks": 6
+      },
+      {
+        "nombre": "Gente Honrada (BSO De La Pelicula \"Somos Gente Honrada\")",
+        "tipo": "single",
+        "fecha_lanzamiento": "2013-04-16",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Showtime 2.0",
+        "tipo": "single",
+        "fecha_lanzamiento": "2012-05-22",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Primavera",
+        "tipo": "single",
+        "fecha_lanzamiento": "2011-10-11",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Quarto dels Trastos",
+        "tipo": "single",
+        "fecha_lanzamiento": "2008-10-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Cuando Amanece",
+        "tipo": "single",
+        "fecha_lanzamiento": "2008-02-19",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Del Lute",
+        "tipo": "single",
+        "fecha_lanzamiento": "2004-03-08",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      }
+    ]
+  },
+  {
+    "nombre_buscado": "Extremoduro",
+    "id": "3bgsNtcf5d5h9jbQbohfBK",
+    "nombre": "Extremoduro",
+    "generos": [],
+    "discografia": [
+      {
+        "nombre": "Para todos los públicos",
+        "tipo": "album",
+        "fecha_lanzamiento": "2013-11-08",
+        "precision_fecha": "day",
+        "total_tracks": 9
+      },
+      {
+        "nombre": "Material defectuoso",
+        "tipo": "album",
+        "fecha_lanzamiento": "2011-05-24",
+        "precision_fecha": "day",
+        "total_tracks": 6
+      },
+      {
+        "nombre": "La ley innata",
+        "tipo": "album",
+        "fecha_lanzamiento": "2008-09-09",
+        "precision_fecha": "day",
+        "total_tracks": 6
+      },
+      {
+        "nombre": "Canciones sin voz",
+        "tipo": "album",
+        "fecha_lanzamiento": "2004-11-15",
+        "precision_fecha": "day",
+        "total_tracks": 20
+      },
+      {
+        "nombre": "Yo, Minoría Absoluta",
+        "tipo": "album",
+        "fecha_lanzamiento": "2002",
+        "precision_fecha": "year",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "Canciones Prohibidas",
+        "tipo": "album",
+        "fecha_lanzamiento": "1998-06-08",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "Iros Todos A Tomar Por Culo",
+        "tipo": "album",
+        "fecha_lanzamiento": "1997",
+        "precision_fecha": "year",
+        "total_tracks": 14
+      },
+      {
+        "nombre": "Agila",
+        "tipo": "album",
+        "fecha_lanzamiento": "1996",
+        "precision_fecha": "year",
+        "total_tracks": 14
+      },
+      {
+        "nombre": "Dónde Están Mis Amigos",
+        "tipo": "album",
+        "fecha_lanzamiento": "1993",
+        "precision_fecha": "year",
+        "total_tracks": 16
+      },
+      {
+        "nombre": "Deltoya",
+        "tipo": "album",
+        "fecha_lanzamiento": "1992",
+        "precision_fecha": "year",
+        "total_tracks": 20
+      },
+      {
+        "nombre": "Somos Unos Animales",
+        "tipo": "album",
+        "fecha_lanzamiento": "1991",
+        "precision_fecha": "year",
+        "total_tracks": 14
+      },
+      {
+        "nombre": "Rock Transgresivo",
+        "tipo": "album",
+        "fecha_lanzamiento": "1989",
+        "precision_fecha": "year",
+        "total_tracks": 15
+      }
+    ]
+  },
+  {
+    "nombre_buscado": "La Habitación Roja",
+    "id": "1PVE74Pf9ejCjOzdxlsHC6",
+    "nombre": "La Habitación Roja",
+    "generos": [],
+    "discografia": [
+      {
+        "nombre": "Crear",
+        "tipo": "album",
+        "fecha_lanzamiento": "2024-10-11",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Años Luz II",
+        "tipo": "album",
+        "fecha_lanzamiento": "2021-11-26",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Años Luz",
+        "tipo": "album",
+        "fecha_lanzamiento": "2021-05-28",
+        "precision_fecha": "day",
+        "total_tracks": 10
+      },
+      {
+        "nombre": "Memoria",
+        "tipo": "album",
+        "fecha_lanzamiento": "2018-03-16",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Sagrado Corazón (Deluxe Version)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2016-04-02",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Veinte Años de Canciones: 1995 - 2015",
+        "tipo": "album",
+        "fecha_lanzamiento": "2015-02-02",
+        "precision_fecha": "day",
+        "total_tracks": 20
+      },
+      {
+        "nombre": "La Moneda en el Aire",
+        "tipo": "album",
+        "fecha_lanzamiento": "2014-02-03",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "La Moneda en el Aire (Track By Track Edition)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2014-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 22
+      },
+      {
+        "nombre": "Fue Eléctrico",
+        "tipo": "album",
+        "fecha_lanzamiento": "2012-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Fue Eléctrico (Edicion Deluxe)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2012-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 14
+      },
+      {
+        "nombre": "Para Ti, Vol. 2",
+        "tipo": "album",
+        "fecha_lanzamiento": "2011-05-02",
+        "precision_fecha": "day",
+        "total_tracks": 9
+      },
+      {
+        "nombre": "Universal",
+        "tipo": "album",
+        "fecha_lanzamiento": "2010-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Ésta No Será Otra Canción de Amor",
+        "tipo": "album",
+        "fecha_lanzamiento": "2008-04-22",
+        "precision_fecha": "day",
+        "total_tracks": 7
+      },
+      {
+        "nombre": "Posidonia",
+        "tipo": "album",
+        "fecha_lanzamiento": "2007-10-23",
+        "precision_fecha": "day",
+        "total_tracks": 7
+      },
+      {
+        "nombre": "Cuando Ya No Quede Nada",
+        "tipo": "album",
+        "fecha_lanzamiento": "2007-04-23",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Dirán Que Todo Fue un Sueño",
+        "tipo": "album",
+        "fecha_lanzamiento": "2006-05-23",
+        "precision_fecha": "day",
+        "total_tracks": 9
+      },
+      {
+        "nombre": "Nuevos Tiempos",
+        "tipo": "album",
+        "fecha_lanzamiento": "2005-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "4",
+        "tipo": "album",
+        "fecha_lanzamiento": "2003-03-11",
+        "precision_fecha": "day",
+        "total_tracks": 27
+      },
+      {
+        "nombre": "Radio",
+        "tipo": "album",
+        "fecha_lanzamiento": "2001-05-03",
+        "precision_fecha": "day",
+        "total_tracks": 28
+      },
+      {
+        "nombre": "Largometraje",
+        "tipo": "album",
+        "fecha_lanzamiento": "1999-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 27
+      },
+      {
+        "nombre": "LHR",
+        "tipo": "album",
+        "fecha_lanzamiento": "1998-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 30
+      },
+      {
+        "nombre": "Svalbard",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-03-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Los Seres Queridos",
+        "tipo": "single",
+        "fecha_lanzamiento": "2024-01-12",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Normal",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-10-06",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Vuelve A Empezar Sin Mí",
+        "tipo": "single",
+        "fecha_lanzamiento": "2023-03-10",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "No Estuviste Allí",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-11-23",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Hasta el Fin",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-11-05",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Día Internacional de los Amantes",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-10-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "1986",
+        "tipo": "single",
+        "fecha_lanzamiento": "2021-02-26",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Taquicardia",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-11-13",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Patria",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-09-11",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Yo Me Pregunto",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-07-17",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "El Miedo Abierto",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-06-05",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Luz (Canción para Whitney Dafoe)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-04-17",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Las Canciones",
+        "tipo": "single",
+        "fecha_lanzamiento": "2020-02-28",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Quiero",
+        "tipo": "single",
+        "fecha_lanzamiento": "2019-11-29",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Líneas en el Cielo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-03-16",
+        "precision_fecha": "day",
+        "total_tracks": 2
+      },
+      {
+        "nombre": "Madrid",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-03-16",
+        "precision_fecha": "day",
+        "total_tracks": 4
+      },
+      {
+        "nombre": "Berlín",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-02-28",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "La Última Noche del Año",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-02-14",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Nuevos Románticos",
+        "tipo": "single",
+        "fecha_lanzamiento": "2018-02-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "24 de Marzo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 3
+      },
+      {
+        "nombre": "Nuestro Momento",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "You Gotta Be Cool",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "You Gotta Be Cool (Ley DJ Remix)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2016-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "De Cine",
+        "tipo": "single",
+        "fecha_lanzamiento": "2014-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 2
+      },
+      {
+        "nombre": "La Moneda en el Aire",
+        "tipo": "single",
+        "fecha_lanzamiento": "2014-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 3
+      },
+      {
+        "nombre": "Si Tú Te Vas (Magnífica Desolación)",
+        "tipo": "single",
+        "fecha_lanzamiento": "2014-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Ayer",
+        "tipo": "single",
+        "fecha_lanzamiento": "2012-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Febrero",
+        "tipo": "single",
+        "fecha_lanzamiento": "2010-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 3
+      },
+      {
+        "nombre": "El Eje del Mal",
+        "tipo": "single",
+        "fecha_lanzamiento": "2005-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 4
+      },
+      {
+        "nombre": "Para Tí",
+        "tipo": "single",
+        "fecha_lanzamiento": "2004-01-01",
+        "precision_fecha": "day",
+        "total_tracks": 4
+      }
+    ]
+  },
+  {
+    "nombre_buscado": "La Fuga",
+    "id": "5YyScSZOuBHpoFhGvHFedc",
+    "nombre": "La Fuga",
+    "generos": [],
+    "discografia": [
+      {
+        "nombre": "Justo Después Del Silencio",
+        "tipo": "album",
+        "fecha_lanzamiento": "2025-10-24",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Humo y Cristales / Mientras Brille La Luna (Edición Especial)",
+        "tipo": "album",
+        "fecha_lanzamiento": "2017-11-10",
+        "precision_fecha": "day",
+        "total_tracks": 34
+      },
+      {
+        "nombre": "Mas De Cien Amaneceres",
+        "tipo": "album",
+        "fecha_lanzamiento": "2013-09-16",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Raices",
+        "tipo": "album",
+        "fecha_lanzamiento": "2011-03-07",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Asuntos pendientes",
+        "tipo": "album",
+        "fecha_lanzamiento": "2008-05-06",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Nubes y claros- Acustico 2006-",
+        "tipo": "album",
+        "fecha_lanzamiento": "2006-09-04",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "En directo",
+        "tipo": "album",
+        "fecha_lanzamiento": "2006-04-03",
+        "precision_fecha": "day",
+        "total_tracks": 18
+      },
+      {
+        "nombre": "Negociando gasolina",
+        "tipo": "album",
+        "fecha_lanzamiento": "2005-05-10",
+        "precision_fecha": "day",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "Calles de Papel",
+        "tipo": "album",
+        "fecha_lanzamiento": "2003",
+        "precision_fecha": "year",
+        "total_tracks": 11
+      },
+      {
+        "nombre": "A las 12",
+        "tipo": "album",
+        "fecha_lanzamiento": "2001-01-31",
+        "precision_fecha": "day",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "A golpes de Rock'n'Roll",
+        "tipo": "album",
+        "fecha_lanzamiento": "2000",
+        "precision_fecha": "year",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Mira",
+        "tipo": "album",
+        "fecha_lanzamiento": "1998",
+        "precision_fecha": "year",
+        "total_tracks": 12
+      },
+      {
+        "nombre": "Banderas",
+        "tipo": "single",
+        "fecha_lanzamiento": "2017-10-13",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Mi Perdición",
+        "tipo": "single",
+        "fecha_lanzamiento": "2015-06-12",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Ser Yo Mismo",
+        "tipo": "single",
+        "fecha_lanzamiento": "2014-11-11",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Maldita",
+        "tipo": "single",
+        "fecha_lanzamiento": "2014-06-27",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Camarote",
+        "tipo": "single",
+        "fecha_lanzamiento": "2014-01-07",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Lunes De Olvido",
+        "tipo": "single",
+        "fecha_lanzamiento": "2013-07-29",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Ganas",
+        "tipo": "single",
+        "fecha_lanzamiento": "2011-02-07",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      },
+      {
+        "nombre": "Opciones",
+        "tipo": "single",
+        "fecha_lanzamiento": "2010-08-23",
+        "precision_fecha": "day",
+        "total_tracks": 1
+      }
+    ]
+  }
+]
